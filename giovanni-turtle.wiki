@@ -80,7 +80,7 @@ The TMNT turles has it that there are 4 turtles:
 
 I wondered to myself — “what if there was a fifth turtle”.
 
-I asked :
+For fun, I asked a large-language-model (LLM) chatbot:
 
 ― Leonardo, Michelangelo, Donatello, and Raphael are brothers.
 ― 
